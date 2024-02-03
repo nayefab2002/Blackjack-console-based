@@ -1,0 +1,7 @@
+﻿  FinalProject.cpp
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\FinalProject\FinalProject\BlackJack.h(89,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\FinalProject\FinalProject\BlackJack.h(111,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\FinalProject\FinalProject\BlackJack.h(112,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\FinalProject\FinalProject\BlackJack.h(118,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\FinalProject\FinalProject\FinalProject.cpp(189,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FinalProject.vcxproj -> C:\Users\Nayef\OneDrive\Desktop\CIS_Lab\FinalProject\x64\Debug\FinalProject.exe
